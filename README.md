@@ -8,7 +8,7 @@
 ## Deep Learning - Convolutional Neural Networks
 ### Project: Deg Breed Classifier
 
-See [project report](finding_donors.ipynb)
+See [project report](dog_app.ipynb)
 
 ### Project Goals
 
